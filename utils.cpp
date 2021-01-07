@@ -139,7 +139,7 @@ void playgame()             // actual game play
     else 
         cout << "It is a draw" << endl;
 
-    Board.clear();
-    Board = {"1","2","3","4","5","6","7","8","9"};
+    Board.clear();      // for multiple play
+    Board = {"1","2","3","4","5","6","7","8","9"}; //for multiple play as global var only compiles once
 
 }
