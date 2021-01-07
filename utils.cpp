@@ -139,4 +139,7 @@ void playgame()             // actual game play
     else 
         cout << "It is a draw" << endl;
 
+    Board.clear();
+    Board = {"1","2","3","4","5","6","7","8","9"};
+
 }
