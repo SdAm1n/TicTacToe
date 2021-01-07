@@ -24,5 +24,5 @@ $ ./filename
 ### Windows
 ```
 $ g++ *.cpp -o filename
-$ filename or $filename.exe
+$ filename or $ filename.exe
 ```
