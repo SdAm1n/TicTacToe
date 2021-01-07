@@ -19,5 +19,10 @@ $ make clean
 * Without using makefile : can use the following commands to compile the project :
 ```
 $ g++ *.cpp -o filename
-$ ./filename
+$ ./filename 
+```
+### Windows
+```
+$ g++ *.cpp -o filename
+$ filename or $filename.exe
 ```
