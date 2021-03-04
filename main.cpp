@@ -1,3 +1,11 @@
+/*This code is made available under the Creative Commons Zero 1.0 License 
+(https://creativecommons.org/publicdomain/zero/1.0)*/
+
+/*
+    Tic Tac Toe Game
+    Created By: sdam1n
+*/
+
 #include "utils.h"
 
 int main ()
@@ -40,7 +48,6 @@ int main ()
         }
 
     }
-
 
 }
 
