@@ -1,6 +1,8 @@
 # Tic Tac Toe
 This is a multiplayer Tic Tac Toe CLI game written in C++.
 
+Requirement: C++ compiler (preferably GNU Compiler) needs to be installed in your pc.
+
 ### How to run on Linux
 * Using the makefile
 
